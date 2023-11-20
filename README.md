@@ -3,4 +3,4 @@
 
  Agora aprendendo a gerenciar meus repositorios
  
- <a href="https://lilvinnuhetero.github.io/html-css/exercicios/modulo01/ex01/index.html">Exercicio 001</a>
+ <a href="https://lilvinnuhetero.github.io/html-css/exercicios/modulo01/ex001/index.html">Exercicio 001</a>
