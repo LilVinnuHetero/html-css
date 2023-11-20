@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(205, 205, 252);
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    text-decoration: underline; 
+    color: blue;
+}
+h2{
+    color: rgb(255, 0, 0);
+}
+p{
+    color: rgb(14, 17, 16);
+}

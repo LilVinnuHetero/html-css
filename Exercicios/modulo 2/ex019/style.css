@@ -1,0 +1,41 @@
+/*  em HTML id é = CSS é #
+    em HTML class é = CSS é .
+*/
+
+body{
+    background-color: #252924;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    color: #164caf;
+}
+
+h1#principal{
+    background-color: #08193ac5;
+    text-align: center;
+}
+
+h2{
+    color: #8DA9C4;
+}
+
+.basico{
+    color: rgb(30, 133, 30);
+}
+
+.medio{
+    color: rgb(224, 224, 2);
+}
+
+.dificil{
+    color: rgb(206, 14, 14);
+}
+
+.destaque{
+    background-color: rgba(243, 156, 94, 0.438);
+}
+
+p{
+    color: #EEF4ED;
+}
