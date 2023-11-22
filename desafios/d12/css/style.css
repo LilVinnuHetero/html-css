@@ -38,7 +38,7 @@
 
   header p{
     padding-bottom: 70px;
-    font-size: 4em;
+    font-size: 4vw;
   }
 
   header a, footer a{
@@ -98,6 +98,6 @@ footer{
   background-color: black;
   color:white;
   text-align: center;
-  font-size: 3em;
+  font-size: 4vw;
   padding: 10px;
 }
