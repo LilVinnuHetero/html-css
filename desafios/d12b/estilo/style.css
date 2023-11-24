@@ -51,15 +51,34 @@ section.normal{
     color:black;
 }
 
+section p{
+padding-bottom: 2em;
+}
+
+section#img01{
+    background-image: url(../imagens/background001.jpg);
+    background-position: right center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+section#img02{
+    background-image: url(../imagens/background002.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
 section.imagem{
     background-color: rgb(70, 70, 70);
     color: rgb(255, 255, 255);
+    box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.726);
 }
 
 section.imagem > p{
-    background-color: black;
+    background-color: rgba(0, 0, 0, 0.253);
     width: fit-content;
     padding: 5px;
+    text-shadow: 1px 1px 1px black;
 }
 
 a{
